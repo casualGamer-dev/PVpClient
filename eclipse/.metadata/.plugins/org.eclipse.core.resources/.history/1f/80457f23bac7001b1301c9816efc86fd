@@ -1,0 +1,15 @@
+package lupical;
+
+public class discordRPC {
+
+	public void start() {
+		
+	}
+	public void shutdown() {
+		
+
+	}
+	public void update(String firstline, String secondLine) {
+		
+	}
+}

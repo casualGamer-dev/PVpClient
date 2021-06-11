@@ -1,0 +1,5 @@
+package lupical.event;
+
+public class EvenPriority {
+
+}
